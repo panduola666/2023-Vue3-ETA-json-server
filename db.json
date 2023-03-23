@@ -215,6 +215,50 @@
       "created": 1678205797536,
       "courseId": 4,
       "id": 7
+    },
+    {
+      "end": 1680850800000,
+      "start": 1680843600000,
+      "total": 20,
+      "userId": 1,
+      "savedUsersId": [],
+      "isDiscount": false,
+      "created": 1679593392939,
+      "courseId": 2,
+      "id": 8
+    },
+    {
+      "end": 1680944400000,
+      "start": 1680940800000,
+      "total": 10,
+      "userId": 1,
+      "savedUsersId": [],
+      "isDiscount": false,
+      "created": 1679593427022,
+      "courseId": 4,
+      "id": 9
+    },
+    {
+      "end": 1682409600000,
+      "start": 1682406000000,
+      "total": 25,
+      "userId": 1,
+      "savedUsersId": [],
+      "isDiscount": false,
+      "created": 1679593436318,
+      "courseId": 4,
+      "id": 10
+    },
+    {
+      "end": 1682323200000,
+      "start": 1682316000000,
+      "total": 30,
+      "userId": 1,
+      "savedUsersId": [],
+      "isDiscount": false,
+      "created": 1679593457232,
+      "courseId": 5,
+      "id": 11
     }
   ],
   "products": [
